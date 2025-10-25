@@ -19,9 +19,9 @@
 
 ## 📡 Mission Log
 
-* **Protocol Initiated:** October 10th, 2025
-* **Current Phase:** Phase 1 - Foundational Syntax & Concepts
-* **Status:** <font color="green">**Nominal.** All systems online.</font>
+- **Protocol Initiated:** October 10th, 2025
+- **Current Phase:** Phase 1 - Foundational Syntax & Concepts
+- **Status:** <font color="green">**Nominal.** All systems online.</font>
 
 ---
 
@@ -53,15 +53,23 @@ This protocol is segmented into distinct phases, tracking the progression from b
   - [ ] The Render Pipeline
   - [ ] Shaders and Lighting
 
-## 🗂️ Project Structure
+<h2 id="-project-structure">🗂️ Project Structure</h2>
 
-The repository is organized to reflect the learning phases:
-The-Axiom-Protocol/ 
-├── 01_the_Basics/ # Code related to Phase 1 
-├── .gitignore 
-├── LICENSE 
-└── README.md
+<p>The repository is organized by topic, with each folder corresponding to a phase in the protocol.</p>
 
+<pre>
+The-Axiom-Protocol/
+├── 01_the_Basics/     # Code related to Phase 1
+├── 02_Core_Mechanics/ # Code related to Phase 2
+└── ... (etc.)
+</pre>
+
+<p>
+  <ul>
+    <li><b><code>01_the_Basics/</code></b>: Contains all code and examples for foundational syntax.</li>
+    <li><em>As the protocol advances, new directories will be added here.</em></li>
+  </ul>
+</p>
 ## 💻 Compiling & Running
 
 Each module is self-contained. To compile and run a specific piece of code:
