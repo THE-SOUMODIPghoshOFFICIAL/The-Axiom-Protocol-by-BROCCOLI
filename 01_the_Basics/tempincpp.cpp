@@ -1,4 +1,9 @@
-
+/**************************************************************************
+PROBLEM STATEMENT:- Temperature of a city in Fahrenheit degrees is input through the 
+keyboard. Write a program to convert this temperature into 
+Centigrade degrees. 
+(C++ Version)
+**********************************************************************************/
 
 // Include necessary C++ standard libraries
 #include <iostream>   // For standard C++ input/output operations (cout, cin)
