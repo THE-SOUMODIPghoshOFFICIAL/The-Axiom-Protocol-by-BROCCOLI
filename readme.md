@@ -55,19 +55,33 @@ This protocol is segmented into distinct phases, tracking the progression from b
 
 <h2 id="-project-structure">🗂️ Project Structure</h2>
 
-<p>The repository is organized by topic, with each folder corresponding to a phase in the protocol.</p>
+<p>The repository in this workspace is organized by topic, with each folder corresponding to a phase in the protocol.</p>
 
 <pre>
-The-Axiom-Protocol/
-├── 01_the_Basics/     # Code related to Phase 1
-├── 02_Core_Mechanics/ # Code related to Phase 2
-└── ... (etc.)
+blue phase/
+├── LICENSE
+├── readme.md
+└── 01_the_Basics/     # Code related to Phase 1 (foundational examples)
+    ├── EVENODDinCPP.cpp
+    ├── calculator.c
+    ├── demo.c
+    ├── distance.c
+    ├── distance.cpp
+    ├── distanceincpp.cpp
+    ├── evenodd.c
+    ├── gradeincpp.cpp
+    ├── hello_world_in_cpp.cpp
+    ├── hello_world.c
+    ├── salary_of_rameshincpp.cpp
+    ├── temperature.c
+    ├── tempincpp.cpp
+    └── theSALARYofRAMESH.c
 </pre>
 
 <p>
   <ul>
-    <li><b><code>01_the_Basics/</code></b>: Contains all code and examples for foundational syntax.</li>
-    <li><em>As the protocol advances, new directories will be added here.</em></li>
+    <li><b><code>01_the_Basics/</code></b>: Contains source files and examples covering foundational C/C++ syntax used throughout Phase 1.</li>
+    <li><em>As the protocol advances, additional phase folders (e.g. `02_Core_Mechanics/`) will be created in the root.</em></li>
   </ul>
 </p>
 ## 💻 Compiling & Running
