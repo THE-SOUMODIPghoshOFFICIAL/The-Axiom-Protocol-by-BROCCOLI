@@ -27,6 +27,9 @@
 
 ## 🗺️ The Protocol (Roadmap)
 
+<details>
+<summary><strong>View the Roadmap</strong> — click to expand/collapse</summary>
+
 This protocol is segmented into distinct phases, tracking the progression from basic concepts to advanced application.
 
 - [x] **Phase 1: Foundational Syntax & Concepts** (Current)
@@ -52,6 +55,8 @@ This protocol is segmented into distinct phases, tracking the progression from b
   - [ ] 3D Model Loading
   - [ ] The Render Pipeline
   - [ ] Shaders and Lighting
+
+</details>
 
 <h2 id="-project-structure">🗂️ Project Structure</h2>
 
