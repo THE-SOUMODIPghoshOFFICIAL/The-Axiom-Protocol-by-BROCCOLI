@@ -1,7 +1,7 @@
 
 <div align="center" style="margin-bottom: 1em;">
   <img src="https://coolvibe.com/wp-content/uploads/2010/01/timemachine.jpg" alt="Project Banner" style="max-width: 100%; border: 3px solid #444; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);" />
-  <!-- Replace YOUR_IMAGE_URL_HERE with your image path or URL -->
+  
 </div>
 
 <div align="center">
