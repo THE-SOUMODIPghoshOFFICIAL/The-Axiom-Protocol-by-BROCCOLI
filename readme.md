@@ -23,7 +23,7 @@
 
 ---
 <div align="center" style="margin-bottom: 1em;">
-  <img src="https://c8.alamy.com/comp/2CACXB7/mission-word-in-colored-rectangles-background-2CACXB7.jpg" alt="Project Banner" style="max-width: 50%; border: 3px solid #444; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);" />
+  <img src="https://c8.alamy.com/comp/2CACXB7/mission-word-in-colored-rectangles-background-2CACXB7.jpg" alt="Project Banner" style="max-width: 30%; " />
   
 </div>
 ## 📡 Mission Log
