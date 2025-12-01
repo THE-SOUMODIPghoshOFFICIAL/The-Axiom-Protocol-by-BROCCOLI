@@ -22,10 +22,10 @@
 </div>
 
 ---
-<div align="center" style="margin-bottom: 1em;">
+<!-- <div align="center" style="margin-bottom: 1em;">
   <img src="https://c8.alamy.com/comp/2CACXB7/mission-word-in-colored-rectangles-background-2CACXB7.jpg" alt="Project Banner" style="max-width: 30%; " />
   
-</div>
+</div> -->
 ## 📡 Mission Log
 
 - **Protocol Initiated:** October 10th, 2025
