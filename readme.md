@@ -128,6 +128,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 <div align="center">
   <strong>Protocol Architect: BROCCOLI (Soumodip Ghosh)</strong>
   <br>
-  <a href="https://github.com/THE-SOUMODIPghoshOFFICIAL">Follow my journey on GitHub</a>
+  <a href="https://x.com/Dips_soumayan">Follow my journey on X/twitter</a>
 </div>
 
