@@ -72,26 +72,6 @@ This protocol is segmented into distinct phases, tracking the progression from b
 <p>The repository in this workspace is organized by topic, with each folder corresponding to a phase in the protocol.</p>
 
 <pre>
-blue phase/
-├── LICENSE
-├── readme.md
-└── 01_the_Basics/     # Code related to Phase 1 (foundational examples)
-    ├── EVENODDinCPP.cpp
-    ├── calculator.c
-    ├── demo.c
-    ├── distance.c
-    ├── distance.cpp
-    ├── distanceincpp.cpp
-    ├── evenodd.c
-    ├── gradeincpp.cpp
-    ├── hello_world_in_cpp.cpp
-    ├── hello_world.c
-    ├── salary_of_rameshincpp.cpp
-    ├── temperature.c
-    ├── tempincpp.cpp
-    └── theSALARYofRAMESH.c
-</pre>
-
 <p>
   <ul>
     <li><b><code>01_the_Basics/</code></b>: Contains source files and examples covering foundational C/C++ syntax used throughout Phase 1.</li>
