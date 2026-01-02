@@ -93,6 +93,10 @@ blue phase/
 </pre>
 
 <p>
+  <ul>
+    <li><b><code>01_the_Basics/</code></b>: Contains source files and examples covering foundational C/C++ syntax used throughout Phase 1.</li>
+    <li><em>As the protocol advances, additional phase folders (e.g. `02_Core_Mechanics/`) will be created in the root.</em></li>
+  </ul>
 </p>
 ## 💻 Compiling & Running
 
