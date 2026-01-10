@@ -41,7 +41,7 @@ This folder contains all exercises and programming solutions from **C Primer Plu
 
 ### Table of Contents
 
-**Preface** xxvii
+**Preface** 
 
 #### Chapter 1: Getting Ready (Page 1)
 
