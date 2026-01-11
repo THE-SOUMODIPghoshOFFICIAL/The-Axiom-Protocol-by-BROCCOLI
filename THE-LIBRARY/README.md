@@ -24,15 +24,6 @@ Quick tips
 - Recommended editor: Visual Studio Code with C/C++ extension.
 - Put practice projects in a `projects/` subfolder so they stay separate from raw book files.
 
-How to contribute
-
-- Add a short `README.md` inside each book folder summarizing what that copy contains.
-- Prefix personal files with your initials (e.g. `JD_exercise1.c`) to avoid confusion.
-
-Ideas / Roadmap
-
-- Add a `cheatsheets/` folder with common patterns (pointer idioms, string handling, bit hacks).
-- Add a small `exercises/` manifest that tracks solved problems and references.
 
 License & notes
 
