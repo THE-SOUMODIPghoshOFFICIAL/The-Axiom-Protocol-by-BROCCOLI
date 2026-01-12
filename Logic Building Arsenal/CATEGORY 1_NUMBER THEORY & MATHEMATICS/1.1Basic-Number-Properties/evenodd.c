@@ -94,6 +94,9 @@ Common color codes:
 \033[4m   // Underline
 \033[7m   // Reverse (swap foreground/background)
 
+printf("\033[1;31mBOLD RED\033[0m\n");  // Bold + Red
+printf("\033[32mGREEN TEXT\033[0m\n");  // Green
+printf("\033[1;33;44mBOLD YELLOW ON BLUE\033[0m\n"); // Multiple styles
 
 
 
