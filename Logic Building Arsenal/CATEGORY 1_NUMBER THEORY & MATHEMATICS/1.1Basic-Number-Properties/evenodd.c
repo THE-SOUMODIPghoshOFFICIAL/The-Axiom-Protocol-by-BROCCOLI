@@ -50,6 +50,17 @@ you can use:-   System sound (platform-specific)> Windows: Use Beep() function f
    Frequency range: 37 Hz to 32,767 Hz 
    (human hearing ≈ 20 Hz to 20,000 Hz)
 
+## Windows Beep() (in <windows.h>)
+Signature: BOOL Beep(DWORD dwFreq, DWORD dwDuration);
+- `dwFreq`: frequency in Hertz (37–32767)
+- `dwDuration`: duration in milliseconds
+
+Pros: precise pitch and duration; reliable on Windows systems.
+Cons: no direct volume control — sound level depends on system volume.
+
+
+
+
 ## if you want to add colors to the text :-
 ex:- printf("\033[31mERROR!\033[0m\n");  = ERROR!(in red) 
 
@@ -97,11 +108,5 @@ Common color codes:
 printf("\033[1;31mBOLD RED\033[0m\n");  // Bold + Red
 printf("\033[32mGREEN TEXT\033[0m\n");  // Green
 printf("\033[1;33;44mBOLD YELLOW ON BLUE\033[0m\n"); // Multiple styles
-
-
-
-
-
-
 
 */
