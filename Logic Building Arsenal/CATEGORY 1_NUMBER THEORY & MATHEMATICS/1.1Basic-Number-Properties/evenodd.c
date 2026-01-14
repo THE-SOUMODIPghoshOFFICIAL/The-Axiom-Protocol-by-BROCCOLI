@@ -25,7 +25,7 @@ int main(int argc, char const *argv[])
 {
     int number,b,c;
     printf("\n:HI, WELCOME USER! \n:ENTER THE NUMBER:- ");
-    scanf("%d",&number);
+    scanf("%d",&number); //Read integer from user
     printf(":Yes number recieved! \n:YOU HAVE ENTERED %d ",number);
     if(number%2==0)
         printf("\n####################################################\nThe NUMBER you have entered here is an EVEN number!\n\n");
