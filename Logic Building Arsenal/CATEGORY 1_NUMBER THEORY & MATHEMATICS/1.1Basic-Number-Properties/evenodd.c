@@ -11,6 +11,12 @@ The Magic Formula: number % 2
 If number % 2 == 0 → Even
 If number % 2 == 1 → Odd
 
+##REAL-Life Examples:
+12 ÷ 2 = 6 (remainder 0) → EVEN
+15 ÷ 2 = 7 (remainder 1) → ODD
+0 ÷ 2 = 0 (remainder 0) → EVEN
+-4 ÷ 2 = -2 (remainder 0) → EVEN
+-7 ÷ 2 = -3 (remainder -1 or 1) → ODD
 
 
 
