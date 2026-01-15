@@ -1,7 +1,7 @@
 
 /* PROBLEM #2: Check if Number is POSITIVE, NEGATIVE, or ZERO
 ===================================================================
-Mathematical Concept
+----------------------Mathematical Concept--------------------------
 Numbers can be divided into 3 categories based on their value:
 1. POSITIVE Numbers (> 0)
 
@@ -19,6 +19,17 @@ On number line: LEFT side of zero
 
 Neither positive nor negative
 The middle point
-Only ONE number in this category!*/
+Only ONE number in this category!
+==========================================================================
+                            |Visual Number Line|
+                            -------------------
 
+                   NEGATIVE          ZERO          POSITIVE
+                       ←               |               →
+                   -5  -4  -3  -2  -1  0  1  2  3  4  5
+
+
+
+*/
+                   
 
