@@ -1,6 +1,8 @@
 //PROBLEM #1: Check if Number is EVEN or ODD
-/* 📖 Mathematical Concept
-What is Even/Odd?
+
+/* 📖 Mathematical Concept:-
+
+| What is Even/Odd? |
 
 Even number: Any number that can be divided by 2 without remainder
 Examples: 2, 4, 6, 8, 10, 100, 1000
@@ -17,12 +19,28 @@ If number % 2 == 1 → Odd
 0 ÷ 2 = 0 (remainder 0) → EVEN
 -4 ÷ 2 = -2 (remainder 0) → EVEN
 -7 ÷ 2 = -3 (remainder -1 or 1) → ODD
-
-
-
+====================================================================================
+     ---Alternative Method (Bitwise - Advanced Preview)----
+     // Using bitwise AND operator
+          if((number & 1) == 0) {
+              printf("EVEN");
+          } else {
+              printf("ODD");
+          }
+          ------------------------------------------------------------
+          
+          #How it works:
+          - In binary, last bit of even numbers is 0
+          - Last bit of odd numbers is 1
+          - `& 1` checks the last bit
+          
+          Examples:
+          
+          10 in binary = 1010 → last bit 0 → EVEN
+          7 in binary = 0111 → last bit 1 → ODD
+============================================================================
 */
-
-
+//ACTUAL PROgram
 
 #include<stdio.h>
 #include<windows.h>
@@ -34,7 +52,7 @@ int main(int argc, char const *argv[])
     scanf("%d",&number); //Read integer from user
     printf(":Yes number recieved! \n:YOU HAVE ENTERED %d ",number);
     if(number%2==0)
-        printf("\n####################################################\nThe NUMBER you have entered here is an EVEN number!\n\n");
+        printf("\n####################################################\nThe NUMBER you have entered here, is an EVEN number!\n\n");
     else 
         printf("\n####################################################\nThe NUMBER you have entered here, is an ODD number!\n\n");
 
