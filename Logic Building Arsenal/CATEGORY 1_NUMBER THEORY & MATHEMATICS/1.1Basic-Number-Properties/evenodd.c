@@ -1,6 +1,6 @@
 //PROBLEM #1: Check if Number is EVEN or ODD
 
-/* 📖 Mathematical Concept:-
+/*  Mathematical Concept:-
 
 | What is Even/Odd? |
 
@@ -45,7 +45,7 @@ If number % 2 == 1 → Odd
 #include<stdio.h>
 #include<windows.h>
 
-int main(int argc, char const *argv[])
+int main()
 {
     int number,b,c;
     printf("\n:HI, WELCOME USER! \n:ENTER THE NUMBER:- ");

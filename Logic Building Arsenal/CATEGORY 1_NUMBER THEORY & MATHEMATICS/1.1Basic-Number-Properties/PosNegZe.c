@@ -27,7 +27,7 @@ Only ONE number in this category!
                    NEGATIVE          ZERO          POSITIVE
                        ←               |               →
                    -5  -4  -3  -2  -1  0  1  2  3  4  5
-                   
+
 ===========================================================================
 How to Check?
 We use comparison operators:
@@ -37,8 +37,25 @@ We use comparison operators:
             |      <          Less than    -3 < 0 → TRUE    |
             |      ==          Equal to    0 == 0 → TRUE    |
             |-----------------------------------------------|
+  
             
-            
+ #THE LOGIC:-           
+if number > 0  → POSITIVE
+if number < 0  → NEGATIVE
+if number == 0 → ZERO
+---------------------------------------------------------------------------
+===========================================================================
+
 */
+
+//ACTUAL CODE:-
+
+#include<stdio.h>
+int main()
+{
+    /* code */
+    return 0;
+}
+
                    
 
