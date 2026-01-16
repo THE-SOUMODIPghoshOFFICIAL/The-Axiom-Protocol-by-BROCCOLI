@@ -53,20 +53,20 @@ if number == 0 → ZERO
 #include<stdio.h>
 int main()
 {
-    int num;  //place for userinput
+    float num;  //place for userinput
 
     printf("\nENTER A NUMBER:- "); // user interface
-    scanf("%d",&num);
-    printf("=============================================\n you have entered:%d",num);
+    scanf("%f",&num);
+    printf("=============================================\n you have entered:%0.4f\n\n",num);
     
               
     if(num<0)
-      {printf("%d is a negative number",num);}
+      {printf("%0.4f is a negative number",num);}
     else if (num>0)
-      { printf("%d is a positive number",num);}
+      { printf("%0.4f is a positive number",num);}
     else if (num==0)
     {
-        printf("%d is a zero",num);
+        printf("%0.4f is a zero",num);
     }
      
     return 0;
