@@ -50,7 +50,7 @@ int main()
     int number,b,c;
     printf("\n:HI, WELCOME USER! \n:ENTER THE NUMBER:- ");
     scanf("%d",&number); //Read integer from user
-    printf(":Yes number recieved! \n:YOU HAVE ENTERED %d ",number);
+    printf(":Yes number received! \n:YOU HAVE ENTERED %d ",number);
     if(number%2==0)
         printf("\n####################################################\nThe NUMBER you have entered here, is an EVEN number!\n\n");
     else 
@@ -61,10 +61,10 @@ int main()
 /*EVEN/ODD Program — Learning Notes
 Author : BROCCOLI
 Date : 2026-01-11
-Time : 5:46:00 pm (exact time of my writting this.)
+Time : 5:46:00 pm (exact time of my writing this.)
 This note collects everything learned while building the even/odd program:
 
-#If you want to add sound to any program for any specific situation where it demands some kind of sound of audio involvments.
+#If you want to add sound to any program for any specific situation where it demands some kind of sound of audio involvements.
 but escape sequence depends on your terminal/system settings—some may just show a visual flash or do nothing.
 you can use:-   System sound (platform-specific)> Windows: Use Beep() function from <windows.h>
                 #include <windows.h>
