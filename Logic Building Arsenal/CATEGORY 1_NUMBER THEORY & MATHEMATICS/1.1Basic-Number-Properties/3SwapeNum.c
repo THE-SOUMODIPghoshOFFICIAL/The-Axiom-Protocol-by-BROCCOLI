@@ -65,6 +65,25 @@ Final: a = 20, b = 10 ✅
 */
 
 //c code:-
+#include<stdio.h>
+int main(int argc, char const *argv[])
+{
+    int a,b,tempV; //tempV=temporary variable.
+    printf("\nENTER THE 1ST NUMBER in SLOT\"A\":- ");
+    scanf("%d",&a);
+
+    printf("ENTER THE 2ND NUMBER IN SLOT\"B\":- ");
+    scanf("%d",&b);
+
+printf("\n=========Swapingggggg==========\n");
+    tempV=a;
+    a=b;
+    b=tempV;
+  printf("SLOT A DATA IS GOING TO SLOT B AND VICE-VERSA\n");  
+  printf("SLOT\"A\"=%d\nSLOT\"B\"=%d",a,b);
+    
+    return 0;
+}
 
 
 
