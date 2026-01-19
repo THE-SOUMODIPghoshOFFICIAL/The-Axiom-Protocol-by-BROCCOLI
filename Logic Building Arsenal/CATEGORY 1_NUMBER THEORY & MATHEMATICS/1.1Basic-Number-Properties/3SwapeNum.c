@@ -32,10 +32,10 @@ b = a;  // Now a = 20, b = 20
 -------------------
 
 Step 1: a = b
-        a = 20, b = 20  ❌ (Original value of a is LOST!)
+        a = 20, b = 20   (Original value of a is LOST!)
 
 Step 2: b = a
-        a = 20, b = 20  ❌ (Both have same value!)
+        a = 20, b = 20   (Both have same value!)
 
 
 The original value of a (which was 10) is gone forever!
@@ -49,7 +49,7 @@ Think of a third glass to help swap!
 Step 1: Pour Orange Juice into Empty Glass (temp)
 Step 2: Pour Apple Juice into Glass A
 Step 3: Pour Orange Juice from temp into Glass B
-Done! Swapped! ✅
+Done! Swapped! 
 
 
 ## Mathematical Steps:
@@ -60,7 +60,7 @@ Step 1: temp = a     → temp = 10, a = 10, b = 20
 Step 2: a = b        → temp = 10, a = 20, b = 20
 Step 3: b = temp     → temp = 10, a = 20, b = 10
 
-Final: a = 20, b = 10 ✅
+Final: a = 20, b = 10 
 
 */
 
@@ -202,7 +202,7 @@ STEP 2: a = b
 
 STEP 3: b = temp
 ┌─────┐  ┌─────┐  ┌─────┐
-│ a=20│  │ b=10│  │temp=10│  ← Swapped! ✅
+│ a=20│  │ b=10│  │temp=10│  ← Swapped! 
 └─────┘  └─────┘  └─────┘
 
 
