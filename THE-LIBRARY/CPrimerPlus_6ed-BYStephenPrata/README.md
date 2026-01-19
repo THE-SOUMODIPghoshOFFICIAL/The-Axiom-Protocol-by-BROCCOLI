@@ -2,6 +2,11 @@
 
 This folder contains all exercises and programming solutions from **C Primer Plus, 6th Edition by Stephen Prata**.
 
+## Structure
+
+- Each chapter has its own subfolder
+- Programs are organized by topic and concept
+- Includes solutions, notes, and practice code
 
 ## Contents
 
