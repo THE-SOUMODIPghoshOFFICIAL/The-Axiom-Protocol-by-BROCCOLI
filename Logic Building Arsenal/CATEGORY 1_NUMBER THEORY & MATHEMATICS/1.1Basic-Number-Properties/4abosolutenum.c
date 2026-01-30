@@ -1,5 +1,5 @@
  /*PROBLEM #4: Find ABSOLUTE VALUE of a Number
-=====================================================================
+========================================================================================================================
   ##What is ABSOLUTE VALUE?
 Absolute value = Distance from zero (always POSITIVE or ZERO)
 Simple Definition:
@@ -10,7 +10,7 @@ Keep positive numbers as they are
 Symbol:   Math: |x|
 Example: |-5| = 5, |5| = 5
  
-==========================================================================
+=============================================================================================================================
  ##Visual Understanding on Number Line:-
 
               ←─────────────|─────────────→
@@ -32,22 +32,29 @@ Example: |-5| = 5, |5| = 5
 |-1|  = 1
 
 #The Logic:-
-----------------------
+----------------------------
 Rule:
      If number is negative → make it positive (multiply by -1)
      If number is positive → keep it same
      If number is zero → keep it zero
 
+In Code Terms:
+     if(number < 0)
+         absolute = -number
+     else
+         absolute = number
 
-
-
-
-
-
-
+=======================================================================================================
 
 
 
  */
+//  C Code Implementation
+   #include<stdio.h>
 
-
+int main(void)
+ { 
+  
+  return 0;
+ }
+ 
