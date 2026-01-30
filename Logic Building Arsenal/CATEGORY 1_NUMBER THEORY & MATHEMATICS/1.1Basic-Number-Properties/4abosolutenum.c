@@ -20,7 +20,16 @@ Example: |-5| = 5, |5| = 5
    |5|  = 5  (distance from 0 is 5 units)    [ Key Point: Distance is ALWAYS positive!]
    |0|  = 0  (distance from 0 is 0 units)
 ========================================================================================================= 
+#Mathematical Examples:-
+----------------------------
 
+|10|  = 10   (positive stays positive)
+|-10| = 10   (negative becomes positive)
+|0|   = 0    (zero stays zero)
+|5|   = 5    
+|-99| = 99
+|100| = 100
+|-1|  = 1
 
 
  */
