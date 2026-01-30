@@ -31,6 +31,22 @@ Example: |-5| = 5, |5| = 5
 |100| = 100
 |-1|  = 1
 
+#The Logic:-
+----------------------
+Rule:
+     If number is negative → make it positive (multiply by -1)
+     If number is positive → keep it same
+     If number is zero → keep it zero
+
+
+
+
+
+
+
+
+
+
 
  */
 
