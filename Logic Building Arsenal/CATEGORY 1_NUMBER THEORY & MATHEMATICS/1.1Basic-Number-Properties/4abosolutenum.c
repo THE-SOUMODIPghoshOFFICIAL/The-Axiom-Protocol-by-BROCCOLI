@@ -33,7 +33,16 @@ Example: |-5| = 5, |5| = 5
 
 #The Logic:-
 ----------------------------
+Rule:
+     If number is negative → make it positive (multiply by -1)
+     If number is positive → keep it same
+     If number is zero → keep it zero
 
+In Code Terms:
+     if(number < 0)
+         absolute = -number
+     else
+         absolute = number
 
 =======================================================================================================
 
