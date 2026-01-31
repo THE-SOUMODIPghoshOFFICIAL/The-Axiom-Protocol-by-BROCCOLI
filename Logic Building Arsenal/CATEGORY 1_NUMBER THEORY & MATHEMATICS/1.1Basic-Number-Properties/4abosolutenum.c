@@ -53,7 +53,10 @@ In Code Terms:
    #include<stdio.h>
 
 int main(void)
- { 
+ {  int a,b;
+      printf("\nEnter a number :- ");
+      scanf("%d",&a);
+      printf("\nThe number is :-%d ",a);
   
   return 0;
  }
