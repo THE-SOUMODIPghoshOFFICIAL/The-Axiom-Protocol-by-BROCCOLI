@@ -63,7 +63,8 @@ int main(void)
           b=a * (-1);
           printf("\nThe absolute value of the number %d is :%d ",a,b);
        }
-      
+       else
+          printf("\nThe absolute value of the number %d is :|%d| ",a,a);
   return 0;
  }
  
