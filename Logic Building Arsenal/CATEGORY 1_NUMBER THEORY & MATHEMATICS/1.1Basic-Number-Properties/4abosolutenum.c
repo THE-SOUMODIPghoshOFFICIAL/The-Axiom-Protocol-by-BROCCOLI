@@ -54,10 +54,16 @@ In Code Terms:
 
 int main(void)
  {  int a,b;
-      printf("\nEnter a number :- ");
+      printf("\nEnter a number :  ");
       scanf("%d",&a);
-      printf("\nThe number is :-%d ",a);
+      printf("\nThe number is : %d ",a);
   
+       if (a<0)
+       {
+          b=a * (-1);
+          printf("\nThe absolute value of the number %d is :%d ",a,b);
+       }
+      
   return 0;
  }
  
