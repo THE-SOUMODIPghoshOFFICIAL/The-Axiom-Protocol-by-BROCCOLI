@@ -57,8 +57,8 @@ int main(void)
        //take input 
       printf("\nEnter a number :  ");
       scanf("%d",&number);
-      
-      printf("\nThe number is : %d ",number);
+
+      printf("\nThe ORIGINALnumber is : %d ",number);
   
        if (number<0)
        {
