@@ -59,10 +59,10 @@ int main(void)
       scanf("%d",&number);
 
       printf("\nThe ORIGINALnumber is : %d ",number);
-  
+        // Find absolute value
        if (number<0)
        {
-          absolute=number * (-1);
+          absolute=number * (-1);   // Convert negative to positive
           printf("\nThe absolute value of the number %d is :%d ",number,absolute);
        }
        else
