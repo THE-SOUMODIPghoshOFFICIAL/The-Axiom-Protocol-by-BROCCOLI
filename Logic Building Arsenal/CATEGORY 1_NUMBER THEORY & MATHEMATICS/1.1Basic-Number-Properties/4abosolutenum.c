@@ -54,9 +54,10 @@ In Code Terms:
 
 int main(void)
  {  int absolute,number;
-
+       //take input 
       printf("\nEnter a number :  ");
       scanf("%d",&number);
+      
       printf("\nThe number is : %d ",number);
   
        if (number<0)
