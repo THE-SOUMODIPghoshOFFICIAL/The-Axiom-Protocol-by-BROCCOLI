@@ -53,18 +53,19 @@ In Code Terms:
    #include<stdio.h>
 
 int main(void)
- {  int a,b;
+ {  int absolute,number;
+
       printf("\nEnter a number :  ");
-      scanf("%d",&a);
-      printf("\nThe number is : %d ",a);
+      scanf("%d",&number);
+      printf("\nThe number is : %d ",number);
   
-       if (a<0)
+       if (number<0)
        {
-          b=a * (-1);
-          printf("\nThe absolute value of the number %d is :%d ",a,b);
+          absolute=number * (-1);
+          printf("\nThe absolute value of the number %d is :%d ",number,absolute);
        }
        else
-          printf("\nThe absolute value of the number %d is :|%d| ",a,a);
+          printf("\nThe absolute value of the number %d is :|%d| ",absolute,absolute);
   return 0;
  }
  
