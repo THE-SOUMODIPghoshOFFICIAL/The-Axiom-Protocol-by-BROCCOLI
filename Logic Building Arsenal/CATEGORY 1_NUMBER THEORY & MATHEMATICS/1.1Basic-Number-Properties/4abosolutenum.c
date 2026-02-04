@@ -53,8 +53,20 @@ In Code Terms:
    #include<stdio.h>
 
 int main(void)
- { 
-  
+ {  int absolute,number;
+       //take input 
+      printf("\nEnter a number :  ");
+      scanf("%d",&number);
+
+      printf("\nThe ORIGINALnumber is : %d ",number);
+        // Find absolute value
+       if (number<0)
+       {
+          absolute=number * (-1);   // Convert negative to positive
+          printf("\nThe absolute value of the number %d is :%d ",number,absolute);
+       }
+       else    // Keep as is
+          printf("\nThe absolute value of the number %d is :|%d| ",absolute,absolute);
   return 0;
  }
  
