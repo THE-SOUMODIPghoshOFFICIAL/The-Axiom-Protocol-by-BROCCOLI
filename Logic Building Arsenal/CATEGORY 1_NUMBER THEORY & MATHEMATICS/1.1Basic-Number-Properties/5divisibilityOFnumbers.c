@@ -11,5 +11,28 @@ Number A is divisible by Number B if:
 
 A ÷ B gives a whole number (no decimal)
 Remainder is ZERO
+====================================================================================================================
+##Real-Life Examples
+---------------------------
+Example 1: Pizza Slices 
+   12 slices ÷ 3 people = 4 slices each (exactly!)
+   12 is divisible by 3 
+
+   12 slices ÷ 5 people = 2.4 slices each (not exact!)
+   12 is NOT divisible by 5 
+
+##Example 2: Money Distribution   
+--------------------------------------------
+    $20 ÷ 4 people = $5 each (exactly!)
+20 is divisible by 4 
+
+$20 ÷ 3 people = $6.67 each (not exact!)
+20 is NOT divisible by 3 
+
+
+
+
+
 
 */
+
