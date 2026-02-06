@@ -46,7 +46,9 @@ Key Formula:-
    if (A % B == 0)  → A is divisible by B
    if (A % B != 0)  → A is NOT divisible by B
 
-
+#why:-
+    % (modulo) gives the remainder
+    If remainder is 0, division is exact!
 
 
 */
