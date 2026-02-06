@@ -29,7 +29,16 @@ Example 1: Pizza Slices
 $20 ÷ 3 people = $6.67 each (not exact!)
 20 is NOT divisible by 3 
 
+----------------------------------------------------------------------------------------------
+## Mathematical Examples:-
+20 ÷ 5 = 4 (remainder 0) → 20 is divisible by 5 
+20 ÷ 3 = 6 (remainder 2) → 20 is NOT divisible by 3 
 
+15 ÷ 3 = 5 (remainder 0) → 15 is divisible by 3 
+15 ÷ 4 = 3 (remainder 3) → 15 is NOT divisible by 4 
+
+100 ÷ 10 = 10 (remainder 0) → 100 is divisible by 10 
+100 ÷ 7 = 14 (remainder 2) → 100 is NOT divisible by 7 
 
 
 
