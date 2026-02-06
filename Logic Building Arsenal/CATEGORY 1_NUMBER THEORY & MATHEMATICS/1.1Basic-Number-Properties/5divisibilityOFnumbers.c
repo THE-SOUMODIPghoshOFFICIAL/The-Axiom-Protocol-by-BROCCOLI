@@ -40,15 +40,7 @@ $20 ÷ 3 people = $6.67 each (not exact!)
 100 ÷ 10 = 10 (remainder 0) → 100 is divisible by 10 
 100 ÷ 7 = 14 (remainder 2) → 100 is NOT divisible by 7 
 
-##The Logic: Using MODULO Operator 
-=============================================================================================================
-Key Formula:- 
-   if (A % B == 0)  → A is divisible by B
-   if (A % B != 0)  → A is NOT divisible by B
 
-#why:-
-    % (modulo) gives the remainder
-    If remainder is 0, division is exact!
 
 
 */
