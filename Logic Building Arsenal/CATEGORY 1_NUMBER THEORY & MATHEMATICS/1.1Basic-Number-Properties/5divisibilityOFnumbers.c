@@ -57,5 +57,11 @@ Key Formula:-
 
 int main() {
     int number, divisor;
+   
+    // Take inputs
+    printf("Enter the number: ");
+    scanf("%d", &number);
     
+    printf("Enter the divisor: ");
+    scanf("%d", &divisor);
 }
