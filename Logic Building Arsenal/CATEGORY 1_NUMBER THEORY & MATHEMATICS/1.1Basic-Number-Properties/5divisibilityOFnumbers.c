@@ -1,9 +1,7 @@
 /* PROBLEM #5: Check if a Number is DIVISIBLE by Another
 ==================================================================================================================
-
-  ##What is DIVISIBILITY?
+ ##What is DIVISIBILITY?
 ----------------------------
-
 Divisibility means one number can be divided by another with NO REMAINDER.
 Simple Definition:
 
