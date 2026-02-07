@@ -50,8 +50,12 @@ Key Formula:-
     % (modulo) gives the remainder
     If remainder is 0, division is exact!
 
-
-
-
 */
 
+//c code implementation
+#include <stdio.h>
+
+int main() {
+    int number, divisor;
+    
+}
