@@ -63,7 +63,10 @@ int main() {
     printf("Enter the divisor: ");
     scanf("%d", &divisor);
 
-    printf("\n--- CHECKING DIVISIBILITY ---\n");
-    printf("Number: %d\n", number);
-    printf("Divisor: %d\n", divisor);
+
+
+
+
+
+
 }
