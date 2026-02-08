@@ -67,7 +67,22 @@ int main() {
     printf("Number: %d\n", number);
     printf("Divisor: %d\n", divisor);
 
-
+// Check divisibility
+    if(divisor == 0) {
+        printf("\nERROR: Cannot divide by ZERO!\n");
+    }
+    else if(number % divisor == 0) {
+        printf("\nResult: %d is DIVISIBLE by %d \n", number, divisor);
+        printf("Quotient: %d ÷ %d = %d\n", number, divisor, number/divisor);
+        printf("Remainder: %d %% %d = 0\n", number, divisor);
+    }
+    else {
+        printf("\nResult: %d is NOT divisible by %d \n", number, divisor);
+        printf("Quotient: %d ÷ %d = %d\n", number, divisor, number/divisor);
+        printf("Remainder: %d %% %d = %d\n", number, divisor, number%divisor);
+    }
+    
+    return 0;
 
 
 
