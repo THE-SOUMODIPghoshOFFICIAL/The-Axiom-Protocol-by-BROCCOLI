@@ -7,7 +7,8 @@
 Even number: Any number that can be divided by 2 without remainder
 Examples: 2, 4, 6, 8, 10, 100, 1000
 Odd number: Any number that gives remainder 1 when divided by 2
-Examples: 1, 3, 5, 7, 9, 99, 101*
+Examples: 1, 3, 5, 7, 9, 99, 101
+
 
 The Magic Formula: number % 2
 If number % 2 == 0 → Even
