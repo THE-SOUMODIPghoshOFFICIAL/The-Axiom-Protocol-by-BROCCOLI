@@ -69,17 +69,17 @@ Final: a = 20, b = 10
 int main(int argc, char const *argv[])
 {
     int a,b,tempV; //tempV=temporary variable.
-    printf("\nENTER THE 1ST NUMBER in SLOT\"A\":- ");
+    printf("\nENTER THE 1ST NUMBER in SLOT \"A\":- ");
     scanf("%d",&a);
 
-    printf("ENTER THE 2ND NUMBER IN SLOT\"B\":- ");
+    printf("ENTER THE 2ND NUMBER IN SLOT \"B\":- ");
     scanf("%d",&b);
 
-printf("\n=========Swapingggggg==========\n");
+printf("\n=========Swapingggggg==========\n\n");
     tempV=a;
     a=b;
     b=tempV;
-  printf("SLOT A DATA IS GOING TO SLOT B AND VICE-VERSA\n");  
+  printf("SLOT A DATA IS GOING TO SLOT B AND VICE-VERSA\n\n");  
   printf("SLOT\"A\"=%d\nSLOT\"B\"=%d",a,b);
     
     return 0;
@@ -185,25 +185,25 @@ b = 0
 
 ## Visual Memory Diagram:-
 
-BEFORE SWAP:
-┌─────┐  ┌─────┐  ┌─────┐
+BEFORE SWAP:            
+┌─────┐  ┌─────┐  ┌──────┐
 │ a=10│  │ b=20│  │temp=?│
-└─────┘  └─────┘  └─────┘
+└─────┘  └─────┘  └──────┘
 
 STEP 1: temp = a
-┌─────┐  ┌─────┐  ┌─────┐
+┌─────┐  ┌─────┐  ┌───────┐
 │ a=10│  │ b=20│  │temp=10│  ← Saved!
-└─────┘  └─────┘  └─────┘
+└─────┘  └─────┘  └───────┘
 
 STEP 2: a = b
-┌─────┐  ┌─────┐  ┌─────┐
+┌─────┐  ┌─────┐  ┌───────┐
 │ a=20│  │ b=20│  │temp=10│  ← Changed!
-└─────┘  └─────┘  └─────┘
+└─────┘  └─────┘  └───────┘
 
 STEP 3: b = temp
-┌─────┐  ┌─────┐  ┌─────┐
+┌─────┐  ┌─────┐  ┌───────┐
 │ a=20│  │ b=10│  │temp=10│  ← Swapped! 
-└─────┘  └─────┘  └─────┘
+└─────┘  └─────┘  └───────┘
 
 
 #METHOD 2: WITHOUT Temporary Variable (MAGIC!)
