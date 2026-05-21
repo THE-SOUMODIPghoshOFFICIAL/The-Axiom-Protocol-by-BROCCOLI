@@ -62,11 +62,11 @@ int main(void)
         // Find absolute value
        if (number<0)
        {
-          absolute=number * (-1);   // Convert negative to positive
-          printf("\nThe absolute value of the number %d is :%d ",number,absolute);
+          absolute = (number * (-1));   // Convert negative to positive
+          printf("\nThe absolute value of the number %d is : %d ",number,absolute);
        }
        else    // Keep as is
-          printf("\nThe absolute value of the number %d is :|%d| ",absolute,absolute);
+          printf("\nThe absolute value of the number %d is %d ",number,number);
   return 0;
  }
  
