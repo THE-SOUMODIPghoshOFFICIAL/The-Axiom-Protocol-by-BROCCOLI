@@ -72,17 +72,6 @@ int main()
     return 0;
 }
 
-/*
-###EXCEPTIONAL CASES
 
-### Case 1: What About Decimal Numbers?
-
-Current code uses `int`, so decimals get truncated:
-Input: 5.7
-Actual stored: 5 (decimal part removed)
-Output: 5 is POSITIVE
-
-
-*/
                    
 
