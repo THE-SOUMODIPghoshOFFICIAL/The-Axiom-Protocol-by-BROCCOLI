@@ -70,4 +70,4 @@ external/
 ehthumbs.db
 Thumbs.db
 # Ignore VS Code Code Runner temporary files
-tempCodeRunnerFile.*
+tempCodeRunnerFile.*.vscode/
